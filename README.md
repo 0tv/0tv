@@ -3,11 +3,11 @@ here are programming languages i know and how well i know them
 
 ```diff
 | level         | language[s] | currently at                                         |
-! not confident | c#          | Console input & output                               |
-- got basics    | Python      | Creating a WebSocket connection to a server [almost] |
-! average       | [None]      | N/A                                                  |
+! not confident | [None]      |                                                      |
+- got basics    | [None]      |                                                      |
+! average       | c#          | JSON parsing and websocket connections               |
 + good          | Javascript  | Can create bot on many websocket-based websites      |
-! gjofdfgig     | [None]      | N/A                                                  |
+! gjofdfgig     | [None]      |                                                      |
 ```
 
 ### more stuff
